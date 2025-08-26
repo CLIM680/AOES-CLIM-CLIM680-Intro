@@ -22,7 +22,7 @@ Email: lortizur at gmu dot edu
 
 ### Meeting Days/Times
 
-Tuesday and Thursday @ 10:30-11:45am, L505 Exploratory Hall 
+Tuesday and Thursday @ 10:30-11:45am, Room 1005 Exploratory Hall 
 
 <a href="https://prukutu.github.io/CLIM680-Climate-Data/"><b>Weekly schedule</b></a>
 
@@ -149,6 +149,11 @@ If the campus closes, or if a class meeting needs to be canceled or adjusted due
 #### _Academic integrity_
 
 It is expected that students adhere to the George Mason University Honor Code as it relates to integrity regarding coursework and grades.  The Honor Code reads as follows: To promote a stronger sense of mutual responsibility, respect, trust, and fairness among all members of the George Mason University community and with the desire for greater academic and personal achievement, we, the student members of the University Community have set forth this: Student members of the George Mason University community pledge __not__ to cheat, plagiarize, steal and/or lie in matters related to academic work. More information about the Honor Code, including definitions of cheating, lying, and plagiarism, can be found at the Office of Academic Integrity website at (http://oai.gmu.edu).  __In this class, working together is strongly encouraged and doing so is not a violation of the Honor Code. However, each student must complete their own analysis codes and figures, and their own writeup of each assignment.__
+
+#### _Policy on Student AI Use_
+When explicitly stated by the instructor, Generative AI tools are allowed on the named assignment. Students will be directed if and when citation or statement-of-usage direction is required. Use of these tools on any assignment not specified will be considered a violation of the academic standards policy. All academic standards violations will be reported using the Academic Standards Referral Form. Use of Generative AI tools will sometimes be in alignment with the learning outcomes for this course; when meeting the outcome requires original human action, creativity or knowledge, AI tool use would not align with the stated course goals. 
+
+Some student work may be analyzed using an originality detection tool focused on AI tools. Generative AI detection tool use will be revealed when the assignment directions are provided to students.
 
 #### _Disability accomodations_
 <a href="http://dsgmu.wpengine.com/">Disability Services</a> at George Mason University is committed to providing equitable access to learning opportunities for all students by upholding the laws that ensure equal treatment of people with disabilities. If you are seeking accommodations for this class, please first visit <a href="http://dsgmu.wpengine.com/">Disability Services</a> for detailed information about the Disability Services registration process. Then please discuss your approved accommodations with me. Disability Services is located in Student Union Building I (SUB I), Suite 2500. Email: ods@gmu.edu | Phone: (703) 993-2474
