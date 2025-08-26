@@ -24,7 +24,7 @@ Email: lortizur at gmu dot edu
 
 Tuesday and Thursday @ 10:30-11:45am, Room 1005 Exploratory Hall 
 
-<a href="https://prukutu.github.io/CLIM680-Climate-Data/"><b>Weekly schedule</b></a>
+<a href="https://clim680.github.io/CLIM680-Climate-Data/"><b>Weekly schedule</b></a>
 
 > ## Prerequisites
 >
